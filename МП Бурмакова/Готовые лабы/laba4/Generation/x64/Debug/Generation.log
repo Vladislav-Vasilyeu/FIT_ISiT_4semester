@@ -1,0 +1,3 @@
+﻿  Generation.cpp
+D:\Универ\МП Бурмакова\Математическое программирование\Готовые лабораторные\laba4\Generation\Generation.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Generation.vcxproj -> D:\Универ\МП Бурмакова\Математическое программирование\Готовые лабораторные\laba4\x64\Debug\Generation.exe
