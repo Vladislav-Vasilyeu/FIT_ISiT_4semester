@@ -1,0 +1,17 @@
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\bin\Debug\net8.0\Program.exe
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\bin\Debug\net8.0\Program.deps.json
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\bin\Debug\net8.0\Program.dll
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\bin\Debug\net8.0\Program.pdb
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.csproj.Up2Date
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.dll
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\refint\Program.dll
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.pdb
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+D:\Универ\ОИБ Ржеуцкая\Лабы\laba12\Program\obj\Debug\net8.0\ref\Program.dll

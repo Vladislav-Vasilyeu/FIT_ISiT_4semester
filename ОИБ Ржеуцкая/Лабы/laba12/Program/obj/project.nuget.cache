@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/vRSM7urcOo=",
+  "success": true,
+  "projectFilePath": "D:\\Универ\\ОИБ Ржеуцкая\\Лабы\\laba12\\Program\\Program.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasil\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
