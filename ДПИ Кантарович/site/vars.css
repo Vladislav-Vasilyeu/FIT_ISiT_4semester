@@ -1,0 +1,53 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  /* Fonts */
+  --h1-exo2-bold-48px-font-family: Exo2-Bold, sans-serif;
+  --h1-exo2-bold-48px-font-size: 48px;
+  --h1-exo2-bold-48px-line-height: 72px;
+  --h1-exo2-bold-48px-font-weight: 700;
+  --h1-exo2-bold-48px-font-style: normal;
+  --h2-exo2-medium-32px-font-family: Exo2-Medium, sans-serif;
+  --h2-exo2-medium-32px-font-size: 32px;
+  --h2-exo2-medium-32px-line-height: 48px;
+  --h2-exo2-medium-32px-font-weight: 500;
+  --h2-exo2-medium-32px-font-style: normal;
+  --h3-montserrat-medium-20px-font-family: Montserrat-Medium, sans-serif;
+  --h3-montserrat-medium-20px-font-size: 20px;
+  --h3-montserrat-medium-20px-line-height: 30px;
+  --h3-montserrat-medium-20px-font-weight: 500;
+  --h3-montserrat-medium-20px-font-style: normal;
+  --body-montserrat-regular-16px-font-family: Montserrat-Regular, sans-serif;
+  --body-montserrat-regular-16px-font-size: 16px;
+  --body-montserrat-regular-16px-line-height: 24px;
+  --body-montserrat-regular-16px-font-weight: 400;
+  --body-montserrat-regular-16px-font-style: normal;
+  --caption-montserrat-regular-14px-font-family: Montserrat-Regular, sans-serif;
+  --caption-montserrat-regular-14px-font-size: 14px;
+  --caption-montserrat-regular-14px-line-height: 21px;
+  --caption-montserrat-regular-14px-font-weight: 400;
+  --caption-montserrat-regular-14px-font-style: normal;
+  --buttons-exo2-medium-16px-font-family: Exo2-Regular, sans-serif;
+  --buttons-exo2-medium-16px-font-size: 16px;
+  --buttons-exo2-medium-16px-line-height: 0px;
+  --buttons-exo2-medium-16px-font-weight: 400;
+  --buttons-exo2-medium-16px-font-style: normal;
+  --buttons-exo2-bold-16px-font-family: Inter-Bold, sans-serif;
+  --buttons-exo2-bold-16px-font-size: 16px;
+  --buttons-exo2-bold-16px-line-height: 0px;
+  --buttons-exo2-bold-16px-font-weight: 700;
+  --buttons-exo2-bold-16px-font-style: normal;
+
+  /* Effects */
+}
+/* Figma Color Variables of your File */
+:root,
+[data-variable-collection-mode="mode-1"] {
+  /* mode-1 */
+  --color-primary: #00ffff;
+  --color-secondary: #ff6600;
+  --color-active1: #00ff00;
+  --color-active2: #ff00ff;
+  --color-background: #121212;
+  --color-text: #d3d3d3;
+}
